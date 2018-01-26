@@ -19,5 +19,5 @@
   
 ## Reference
 - `Server`
-  - [NodeJS - Express](http://expressjs.com/)
-  - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+  - [NodeJS - Express](http://expressjs.com/){:target="_blank"}
+  - [Puppeteer](https://github.com/GoogleChrome/puppeteer){:target="_blank"}

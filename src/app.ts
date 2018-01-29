@@ -4,7 +4,7 @@ import * as express from 'express';
 
 import { PORT } from './config';
 
-import { getScreenshot } from './examples/';
+import { getScreenshot } from './examples/puppeteer';
 
 const app = express();
 

@@ -1,11 +1,13 @@
-# [Puppeteer Scraper with TypeScript](https://github.com/Seolhun/puppeteer-scraper-typescript)
+# [Scraper with TypeScript](https://github.com/Seolhun/puppeteer-scraper-typescript)
 - Author : [HunSeol](https://github.com/Seolhun)
 - Date : 2018.01.26
 
 ## Pre-Requirement
 1. `TypeScript`
 2. `NodeJS`, `Express`
-3. `Puppeteer`
+3. `CheerIO`
+4. `Puppeteer`
+
 
 ## How to run
 - `Server`
@@ -20,4 +22,6 @@
 ## Reference
 - `Server`
   - [NodeJS - Express](http://expressjs.com/){:target="_blank"}
+  - [CheerIO](https://github.com/cheeriojs/cheerio)
   - [Puppeteer](https://github.com/GoogleChrome/puppeteer){:target="_blank"}
+
